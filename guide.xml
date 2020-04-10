@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id=" AMC FHD">
-    <display-name lang="es">AMC FHD</display-name>
-    <url>http://www.mi.tv</url>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
   </channel>
   <channel id="AXN FHD">
     <display-name lang="es">AXN FHD</display-name>
@@ -24,6 +24,22 @@
     <display-name lang="pt">Fox Premium 1 FHD</display-name>
     <url>http://www.tvplus.com.br.E</url>
   </channel>
+  <channel id="Disney Channel FHD [H265] [Alter]">
+    <display-name lang="pt">Disney Channel FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <programme start="20200409223000 -0300" stop="20200410002500 -0300" channel="AMC FHD">
+    <title lang="pt">Kick-Ass 2</title>
+    <desc lang="pt">O heroico Kick-Ass vai ter ajuda para combater o mal. O Coronel Estrelas e Listras, está reunindo um grupo para lutarem contra o crime.(n)</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Christopher Mintz Plasse</actor>
+      <actor>Chloë Grace Moretz</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000392227_epg.jpg" />
+  </programme>
   <programme start="20200409231200 -0300" stop="20200410000900 -0300" channel="Fox Premium 1 FHD">
     <title lang="pt">Fosse/Verdon - Temp. 1 - Ep. 7</title>
     <desc lang="pt">Gwen luta pela sua própria visão criativa em Chicago, desafiando as ideias cada vez mais obscuras de Bob para o musical.(n)</desc>
@@ -36,5 +52,17 @@
     <category lang="pt">Drama</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000092804001_epg.jpg" />
     <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20200409233000 -0300" stop="20200410000000 -0300" channel="Disney Channel FHD [H265] [Alter]">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
+    <desc lang="pt">Dipper e Mabel são dois irmãos gêmeos criados na cidade grande que são enviados para passar o verão com seu velho tio Stan,.(n)</desc>
+    <credits>
+      <director>Alex Hirsch</director>
+      <actor>Vozes de Kristen Schaal</actor>
+      <actor>Jason Ritter</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Animação</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068433_epg.jpg" />
   </programme>
 </tv>
