@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id=" AMC FHD">
+    <display-name lang="es">AMC FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="es">AXN FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="es">Canal Brasil FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD">
+    <display-name lang="es">Canal Sony FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="es">Cinemax FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Fox Premium 1 FHD">
+    <display-name lang="pt">Fox Premium 1 FHD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <programme start="20200409231200 -0300" stop="20200410000900 -0300" channel="Fox Premium 1 FHD">
+    <title lang="pt">Fosse/Verdon - Temp. 1 - Ep. 7</title>
+    <desc lang="pt">Gwen luta pela sua própria visão criativa em Chicago, desafiando as ideias cada vez mais obscuras de Bob para o musical.(n)</desc>
+    <credits>
+      <director>Thomas Kail</director>
+      <actor>Ann Reinking</actor>
+      <actor>Michelle Williams</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000092804001_epg.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+</tv>
